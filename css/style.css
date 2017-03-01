@@ -115,7 +115,47 @@ a:hover {
   border-bottom-color: transparent;
   cursor:pointer;  
 }
-
+.contact-icon-container {
+    position: absolute;
+    top: -38px;
+    right: 0;
+    padding-right: 20px;
+    font-size: 320px;
+    color: #555;
+    line-height: 300px;
+    -ms-transform: rotate(20deg);
+    -moz-transform: rotate(20deg);
+    -webkit-transform: rotate(20deg);
+    transform: rotate(20deg);
+}
+.btn-send
+{
+	border-radius: 0px;
+	color: #000;
+	background-color: #FFD34E;
+}
+.cont-title
+{
+	font-size: 24px;
+	padding:15px 0px;
+}
+.location-info p span {
+    display: inline-block;
+}
+.location-info p span {
+    width: 40px;
+    font-size: 24px;
+    color: #666;
+    vertical-align: middle;
+}
+.location-info p {
+    margin-bottom: 5px;
+}
+.location-info p {
+    font-size: 18px;
+    line-height: 32px;
+    color: #000;
+}
 /*===========================
   slider
 ============================ */
