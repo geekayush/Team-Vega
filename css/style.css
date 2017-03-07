@@ -23,7 +23,7 @@ body {
 	background-color:#fff;
 }
 
-hi,h2,h3,h4,h5,h6 {
+h1,h2,h3,h4,h5,h6 {
 	color:#000;
 	line-height:1.1em;
 }
@@ -104,6 +104,20 @@ a:hover {
   border-radius:0;
   background-color:#f9f9f9;
   
+}
+.team-member img {
+    margin: 0 auto;
+    border: 7px solid #fff;
+}
+
+.team-member h4 {
+    margin-top: 25px;
+    margin-bottom: 0;
+    text-transform: none;
+}
+
+.team-member p {
+    margin-top: 0;
 }
 .nav-tabs > li.active > a,
 .nav-tabs > li.active > a:hover,
