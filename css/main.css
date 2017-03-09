@@ -22,7 +22,9 @@ h6 {
   font-family: 'Open Sans', sans-serif;
   color:#4e4e4e;
 }
-
+.no-padding {
+  padding: 0;
+}
 h1{
   font-size: 36px;
   color:#fff;
